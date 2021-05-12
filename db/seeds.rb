@@ -4,7 +4,7 @@ Card.create(
   [
     {
       letter:"a",
-      url:"https://www.pinclipart.com/picdir/middle/569-5697320_transparent-apple-clip-art-red-apple-clipart-png.png"
+      url:"https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/29071/glossy-apple-clipart-md.png"
     },
     {
       letter:"b",
@@ -12,7 +12,15 @@ Card.create(
     },
     {
       letter:"c",
-      url:"https://www.vippng.com/png/detail/21-212690_free-download-high-quality-cartoon-cat-png-transparent.png"
+      url:"https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/17843/white-cat-walking-clipart-md.png"
+    },
+    {
+      letter:"i",
+      url:"https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/71269/igloo-clipart-md.png"
+    },
+    {
+      letter:"l",
+      url:"https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/13533/lemon-fruit-clipart-md.png"
     },
     {
       letter:"s",
@@ -24,7 +32,7 @@ Card.create(
     },
     {
       letter:"z",
-      url:"https://toppng.com/uploads/preview/baby-zebra-clipart-ba-zebra-clipart-zebra-i-love-animals-baby-zebra-clipart-115628585807kwannfvqb.png"
+      url:"https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9438/zebra-clipart-md.png"
     }
   ]
 )
